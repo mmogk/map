@@ -24,20 +24,20 @@ export default function Home() {
         <p>Waterfront Station (Downtown Vancouver) to King George Station (Surrey)</p>
         </li>
         <li>
-        <p>Waterfront Station (Downtown Vancouver) to Production Way–University Station (Burnaby)</p>
+        <p>Waterfront Station (Downtown Vancouver) to Production Way, University Station (Burnaby)</p>
         </li>
       </ul>
       <br />
       <p>Transfer to the Millennium Line at the following stations:</p>
         <ul>
           <li>
-          <p>Commercial–Broadway Station</p>
+          <p>Commercial, Broadway Station</p>
           </li>
           <li>
           <p>Lougheed Town Centre Station</p>
           </li>
           <li>
-          <p>Production Way–University Station</p>
+          <p>Production Way, University Station</p>
           </li>
         </ul>
         <br />
@@ -47,7 +47,7 @@ export default function Home() {
         <div style={{backgroundColor: 'lightblue'}}>
           <div style={{width:'40%', padding:10}}>
           <img src='https://www.translink.ca/-/media/translink/logos/translink_logo.svg?extension=webp&hash=EBABCEA0317878DD8B014CD42A992F3C' style={{width: '30%', paddingLeft: 15}}></img>
-            <p>Metro Vancouver's transportation network, serving residents and visitors with public transit, major roads, bridges and Trip Planning.</p>
+            <p>Metro Vancouver&apos;s transportation network, serving residents and visitors with public transit, major roads, bridges and Trip Planning.</p>
           </div>
 
         </div>
