@@ -15,6 +15,15 @@ a {
   box-sizing: border-box;
 }
 
+p {
+  padding-left: 1rem;
+  font-size: large;
+}
+
+ul {
+  padding-left: 5rem;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
